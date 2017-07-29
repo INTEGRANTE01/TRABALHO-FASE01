@@ -1,0 +1,3 @@
+
+executar script endemic.sql com o Mysql workbench ou através do console
+

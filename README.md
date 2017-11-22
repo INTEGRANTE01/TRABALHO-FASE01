@@ -6,7 +6,7 @@ Projeto fase 2.
 
 ### Para fazer clone.
 
-`git clone https://github.com/dougfalves/UFG-PW-TRABALHO.git`
+`git clone https://github.com/INTEGRANTE01/TRABALHO-FASE01`
 
 ### Para rodar com o Tomcat.
 
